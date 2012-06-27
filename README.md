@@ -9,6 +9,12 @@ Description
 * It use cache to store downloaded images.
 * It also check modification date on server side when image is requested to be up to date.
 
+Usage
+-----
+
+Please refer to the C4MiOS_apiDemo project for implementation example.
+
+
 Change Logs
 -----------
 
